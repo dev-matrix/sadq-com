@@ -1,9 +1,9 @@
 # sadq-com
 افتح ترنمال 
-git clone https://github.com/moodlIMyIl/TshAkEapi
+git clone https://github.com/dev-matrix/sadq-com
 
 وراهة حط 
-cd TshAkEapi
+cd sadq-com
 
 وراهة حط 
 
@@ -14,4 +14,4 @@ chmod +x install.sh
 ./install.sh
 
 او نصب كود واحد
-git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x install.sh && ./install.sh
+git clone https://github.com/dev-matrix/sadq-com && cd sadq-com && chmod +x install.sh && ./install.sh
